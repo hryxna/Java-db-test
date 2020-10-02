@@ -13,4 +13,13 @@ describe contacts;
 INSERT INTO contacts
 values(1234567890,'hk','m','p');
 
+INSERT INTO contacts
+values(0246810120,'darshit','d','pandya');
+
+INSERT INTO contacts
+values(1357911131,'vishnu','d','ohja');
+
+INSERT INTO contacts
+values(0987654321,'ayushi','d','prajapati');
+
 SELECT * FROM contacts;
