@@ -1,4 +1,4 @@
-CREATE DATABASE contactsdb;
+CREATE DATABASE IF NOT EXISTS contactsdb;
 USE contactsdb;
  
 CREATE TABLE `contacts`(
